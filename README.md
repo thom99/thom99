@@ -31,10 +31,10 @@ These applications were used by internal operators and required high standards i
 ## 🛠️ Tech Stack
 
 ### Frontend
-![My Skills](https://skillicons.dev/icons?i=html,css,ts,js,react,redux,tailwind,git,github)
+![My Skills](https://skillicons.dev/icons?i=html,css,ts,js,react,redux,nextJS-dark,sass,tailwind,jest,git,github,vscode-dark,vite-dark,netlify-dark)
 
 ### Backend / Tools => *in progress*
-![My Skills](https://skillicons.dev/icons?i=nodejs,sql,supabase)
+![My Skills](https://skillicons.dev/icons?i=nodejs,supabase)
 
 ---
 
