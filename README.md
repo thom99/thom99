@@ -28,13 +28,13 @@ These applications were used by internal operators and required high standards i
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Tech Stack
 
 ### Frontend
-![My Skills](https://skillicons.dev/icons?i=html,css,ts,js,react,redux,nextJS-dark,sass,tailwind,jest,git,github,vscode-dark,vite-dark,netlify-dark)
+![Frontend](https://skillicons.dev/icons?i=html,css,ts,js,react,redux,nextjs,sass,tailwind,jest,git,github,vscode,vite,netlify&theme=dark)
 
-### Backend / Tools => *in progress*
-![My Skills](https://skillicons.dev/icons?i=nodejs,supabase)
+### Backend / Tools *(in progress)*
+![Backend](https://skillicons.dev/icons?i=nodejs,supabase&theme=dark)
 
 ---
 
