@@ -34,7 +34,7 @@ These applications were used by internal operators and required high standards i
 ![Frontend](https://skillicons.dev/icons?i=html,css,ts,js,react,redux,nextjs,sass,tailwind,jest,git,github,vscode,vite,netlify&theme=dark)
 
 ### Backend / Tools *(in progress)*
-![Backend](https://skillicons.dev/icons?i=nodejs,supabase&theme=dark)
+![Backend](https://skillicons.dev/icons?i=nodejs,mysql,supabase&theme=dark)
 
 ---
 
