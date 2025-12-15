@@ -41,15 +41,8 @@ I enjoy working on complex systems and transforming them into **clear, maintaina
 ## 🚀 What I’m Working On
 
 - **PWA dashboards** with role-based access (internal teams & clients)
-- **Enterprise-grade UIs** for complex business flows
 - **Event & booking platforms** with QR codes and email automation
 - Exploring **Next.js, Supabase, and scalable architectures**
-
----
-
-## 📈 GitHub Stats
-
-![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=thom99&show_icons=true&theme=dark)
 
 ---
 
