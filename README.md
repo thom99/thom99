@@ -9,14 +9,7 @@ I have solid experience working in **enterprise banking environments** as well a
 
 ## 👨‍💻 About Me
 
-I am a Frontend Developer with **3+ years of professional experience**, mainly working in the **banking and financial sector**.
-
-At **UniCredit**, I worked on large-scale enterprise applications, developing **microfrontend architectures** for **sell and post-sell flows** of financial products such as:
-- Cards
-- Acquiring solutions
-- Insurance products
-
-These applications were used by internal operators and required high standards in terms of **security, accessibility, scalability, and code quality**.
+I am a Frontend Developer with **4 years of professional experience**, mainly working in the **banking and financial sector**.
 
 At **illimity Bank**, my first professional experience, I worked on:
 - Feature development and bug fixing
@@ -25,6 +18,13 @@ At **illimity Bank**, my first professional experience, I worked on:
   (previously handled by an external web software), bringing the entire flow into the main platform.
 
 I enjoy working on complex systems and transforming them into **clear, maintainable, and user-friendly solutions**.
+
+At **UniCredit**, I worked on large-scale enterprise applications, developing **microfrontend architectures** for **sell and post-sell flows** of financial products such as:
+- Cards
+- Acquiring solutions
+- Insurance products
+
+These applications were used by internal operators and required high standards in terms of **security, accessibility, scalability, and code quality**.
 
 ---
 
