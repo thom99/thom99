@@ -9,22 +9,17 @@ I have solid experience working in **enterprise banking environments** as well a
 
 ## 👨‍💻 About Me
 
-I am a Frontend Developer with **4 years of professional experience**, mainly working in the **banking and financial sector**.
+I’m a Front-End Developer with around 4 years of experience, mainly working with React, TypeScript, and modern frontend architectures.
 
-At **illimity Bank**, my first professional experience, I worked on:
-- Feature development and bug fixing
-- Integration of **Google Blockly** to support dynamic and visual workflows
-- Designing and building **from scratch** a complete **Invoices management section** inside the internal backoffice  
-  (previously handled by an external web software), bringing the entire flow into the main platform.
+Over the past few years, I’ve mostly worked on **enterprise and complex web applications**  in the banking and financial sector.
 
-I enjoy working on complex systems and transforming them into **clear, maintainable, and user-friendly solutions**.
+I’m usually involved across the entire frontend lifecycle: from translating business requirements into UI components, to building scalable architectures, integrating APIs, and ensuring good UX, accessibility, and performance.
 
-At **UniCredit**, I worked on large-scale enterprise applications, developing **microfrontend architectures** for **sell and post-sell flows** of financial products such as:
-- Cards
-- Acquiring solutions
-- Insurance products
+Alongside enterprise projects, I’ve also worked on different types of applications, including **PWAs with multi-role dashboards, analytics, and responsive design across devices**. In parallel, I’ve developed personal full-stack projects using **Node.js for APIs and Supabase for database management**, to improve my backend knowledge.
 
-These applications were used by internal operators and required high standards in terms of **security, accessibility, scalability, and code quality**.
+I really enjoy working in **cross-functional teams**, collaborating with designers, backend developers, and product stakeholders.
+
+I’m now looking for an environment where frontend is not just about implementation, but is part of a digital strategy, which is why Hoppinger caught my attention, especially for your focus on **modern technologies**.
 
 ---
 
